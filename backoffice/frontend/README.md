@@ -6,8 +6,7 @@
 2. [프로젝트 범위](#2-프로젝트-범위)
 3. [기술 스택](#3-기술-스택)
 4. [프로젝트 설치 실행](#4-프로젝트-설치-실행)
-5. [프로젝트 아키텍처](#5-프로젝트-아키텍처)
-6. [프로젝트 API 문서](#6-프로젝트-API-문서)
+5. [프로젝트 API 문서](#5-프로젝트-API-문서)
 
 ## 1. 프로젝트 개요
 
@@ -133,10 +132,7 @@ yarn start
 
 4. 환경변수 설정 : 환경변수는 process.env.ENV로 관리
 
-## 5. 프로젝트 아키텍처
 
-<img width="6180" alt="Architecture" src="https://github.com/Kidongg/carrot-market/assets/104154151/b718ee86-f87a-40c0-b016-cd4696e79421">
-
-## 6. 프로젝트 API 문서
+## 5. 프로젝트 API 문서
 
 [API 문서 링크](https://api.backoffice.teamsparta-nurseedue.shop/api-docs#/)
