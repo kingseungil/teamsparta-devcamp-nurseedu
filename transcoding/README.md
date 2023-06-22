@@ -171,7 +171,7 @@ yarn dev
 
 ## 5. 파이프라인 구조
 
-<img width="1677" alt="image" src="https://github.com/DevCamp-TeamSparta/nurseedu-backend/assets/109774037/4d224d13-0886-4b79-b0c3-c6db58ea8583">
+<img width="1334" alt="image" src="https://github.com/kingseungil/teamsparta-devcamp-nurseedu/assets/109774037/13e6a78d-751f-4500-9520-e7fecb9b3061">
 
 <a name="7.-핵심-기능-설명"></a>
 
