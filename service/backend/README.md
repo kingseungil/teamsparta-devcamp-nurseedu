@@ -210,7 +210,8 @@ Reference
 
 - 인프라
 
-![dev-camp drawio](https://github.com/DevCamp-TeamSparta/nurseedu-backend/assets/90877864/86789148-c1f0-4d53-b7f1-92712554a226)
+<img width="700" alt="image" src="https://github.com/kingseungil/teamsparta-devcamp-nurseedu/assets/109774037/be89edc8-74a6-4437-9cc7-ec77b109f483">
+
 
 <a name="6.-데이터베이스-구조"></a>
 ## 6. 데이터베이스 구조
