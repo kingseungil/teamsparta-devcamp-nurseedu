@@ -210,7 +210,8 @@ Reference
 
 - 인프라
 
-<img width="700" alt="image" src="https://github.com/kingseungil/teamsparta-devcamp-nurseedu/assets/109774037/be89edc8-74a6-4437-9cc7-ec77b109f483">
+<img width="800" alt="image" src="https://github.com/kingseungil/teamsparta-devcamp-nurseedu/assets/109774037/d5c2aeb6-9404-43bd-afa4-afd2a0cfb528">
+
 
 
 <a name="6.-데이터베이스-구조"></a>
