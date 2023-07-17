@@ -217,7 +217,7 @@ Reference
 <a name="6.-데이터베이스-구조"></a>
 ## 6. 데이터베이스 구조
 
-[ERD 링크](https://www.erdcloud.com/d/QBZzQTTZMpkwLd2ku)
+[ERD 링크](https://www.erdcloud.com/d/DMCZQh8JLFqKvuSiX)
 
 <a name="7.-핵심-기능-설명"></a>
 ## 7. 핵심 기능 설명
